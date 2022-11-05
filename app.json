@@ -1,7 +1,7 @@
 {
-    "name": "General Mathematics",
+    "name": "Krypton Science",
     "description": "Educational Site",
-    "repository": "https://github.com/GeneralMathematics/General-Mathematics-Beta",
-    "logo": "https://github.com/GeneralMathematics/General-Mathematics-Beta/blob/main/static/img/icons/math.png",
-    "keywords": ["GeneralMathematics", "educational", "science", "math"]
+    "repository": "https://github.com/Mutatedd/kryptongames",
+    "logo": "https://github.com/Mutatedd/kryptongames/blob/main/static/img/icons/math.png",
+    "keywords": ["krypton", "educational", "science", "matter"]
 }
